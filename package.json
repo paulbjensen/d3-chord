@@ -34,7 +34,7 @@
     "d3-path": "1"
   },
   "devDependencies": {
-    "eslint": "3",
+    "eslint": "9",
     "package-preamble": "0.0",
     "rollup": "2.80",
     "tape": "4",
